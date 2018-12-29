@@ -1,4 +1,4 @@
-package com.atguigu.springcloud.service;
+﻿package com.atguigu.springcloud.service;
 
 import java.util.List;
 
@@ -11,7 +11,7 @@ import com.atguigu.springcloud.entities.Dept;
 
 
 /**
- * 
+ * 注释
  * @Description: 修改microservicecloud-api工程，根据已经有的DeptClientService接口
 
 新建
